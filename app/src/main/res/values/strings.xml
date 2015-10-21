@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- The items related to template -->
+  <string name="app_name">baNaNhot</string>
+  <string name="url">http://bananhotbikinis.com/</string>
+  <drawable name="custom_logo">@drawable/logo</drawable>
+  <drawable name="custom_icon">@drawable/icon</drawable>
+  <integer name="splash_delay_time">1000</integer>
+</resources>
